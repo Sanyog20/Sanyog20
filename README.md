@@ -52,15 +52,15 @@
 </p>
 
 <h2>My GitHub History!  📈 &nbsp;</h2>
-<a href="https://github.com/sangmesh04">
+<a href="https://github.com/Sanyog20">
   <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangmesh04&theme=nord" alt="Top Languages" width="24%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyog20&theme=nord" alt="Top Languages" width="24%"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=sangmesh04&theme=nord" width="66%"> -->
 <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sangmesh04&theme=nord" alt="Streak Stats" width="45%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanyog20&theme=nord" alt="Streak Stats" width="45%"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=sangmesh04&theme=nord" alt="Streak Stats" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Sanyog20&theme=nord" alt="Streak Stats" width="45%"/>
 </p>
 </a>
 
